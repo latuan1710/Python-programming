@@ -1,8 +1,8 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introduction
+description : This chapter introduces basic python programming
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:fc26ad0043
 ## A really bad movie
